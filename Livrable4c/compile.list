@@ -1,0 +1,13 @@
+aquarium4/ihm/Fenetre.java
+aquarium4/ihm/Plateau.java
+aquarium4/metier/poisson/Poisson.java
+aquarium4/metier/poisson/PoissonAir.java
+aquarium4/metier/poisson/PoissonForce.java
+aquarium4/metier/poisson/PoissonGravite.java
+aquarium4/metier/poisson/PoissonPeureux.java
+aquarium4/metier/poisson/PoissonSuiveur.java
+aquarium4/metier/poisson/PoissonSuiveurGravite.java
+aquarium4/metier/vecteur/IPosition.java
+aquarium4/metier/vecteur/Vecteur.java
+aquarium4/metier/Aquarium.java
+aquarium4/Controleur.java

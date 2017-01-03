@@ -1,0 +1,9 @@
+400 400
+#type     x    y  vx  vy  qui     vueDist     vueAngl
+normal   250  50  -5  -5
+peureux  150 100   2   2  0         30           90
+peureux  132 150   4  -1  0         30          180
+peureux  380 120   5   5  0         30          360
+peureux   20 130   4   1  0         30          120
+peureux  200  50   -2  1  0         30           90
+peureux  350 100   2   2  0         30           90
